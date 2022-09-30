@@ -1,0 +1,8 @@
+.pages{
+    border:10px;
+    border-style:double;
+    border-color:black;
+    padding:10px;
+    margin:10px;
+    border-radius: 15px;
+}
